@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "mousse:mousse_cake"
+      }
+    ],
+    "result": {
+      "count": 8,
+      "item": "minecraft:piece_cake"
+   }
+}

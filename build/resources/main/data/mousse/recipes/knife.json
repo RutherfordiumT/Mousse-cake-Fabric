@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      " A ",
+      " B "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_nugget"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "mousse:knife",
+      "count": 1
+    }
+  }
